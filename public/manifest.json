@@ -1,0 +1,21 @@
+{
+  "short_name": "테스트-박정민",
+  "name": "테스트-박정민 날씨 & 주식",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#00629d",
+  "background_color": "#f8f9ff"
+}
